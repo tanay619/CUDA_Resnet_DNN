@@ -1,0 +1,19 @@
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Training Resnet_Q1 on train split of CIFAR-10
+Training Epoch: 1, Loss: 1070.574, Accuracy: 50.77%
+Training Epoch: 2, Loss: 715.402, Accuracy: 67.74%
+Training Epoch: 3, Loss: 574.066, Accuracy: 74.15%
+Training Epoch: 4, Loss: 490.467, Accuracy: 78.03%
+Training Epoch: 5, Loss: 424.699, Accuracy: 81.07%
+Training Epoch: 6, Loss: 373.050, Accuracy: 83.37%
+Training Epoch: 7, Loss: 333.316, Accuracy: 85.13%
+Training Epoch: 8, Loss: 289.557, Accuracy: 87.10%
+Training Epoch: 9, Loss: 254.112, Accuracy: 88.62%
+Training Epoch: 10, Loss: 226.134, Accuracy: 89.90%
+Validating Resnet_Q1 on val split of CIFAR-10
+Validation: Loss: 104.055, Accuracy: 79.04%
+Testing Resnet_Q1 on test split of CIFAR-10
+Evaluation: Loss: 104.086, Accuracy: 79.03%
