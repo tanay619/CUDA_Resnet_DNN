@@ -1,0 +1,2 @@
+#To install necessary Libraries:
+pip install torch torchvision torchaudio scikit-learn
